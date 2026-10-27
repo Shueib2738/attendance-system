@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+config/database.local.php
+*_backup*.sql
+*.dump
+/backup/
